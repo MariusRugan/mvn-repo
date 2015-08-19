@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.divolte.examples</groupId>
+  <artifactId>avro-schema</artifactId>
+  <versioning>
+    <versions>
+      <version>0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150819085948</lastUpdated>
+  </versioning>
+</metadata>
